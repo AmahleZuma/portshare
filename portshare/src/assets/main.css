@@ -1,0 +1,9 @@
+* {
+    background-color: rgb(34, 33, 33);
+    margin: 0;
+    color: rgb(228, 228, 210);
+}
+
+.header h1{
+    color: aqua;
+}
