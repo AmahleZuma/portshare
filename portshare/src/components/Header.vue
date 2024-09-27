@@ -2,7 +2,7 @@
     <header >
         <h1 class="cream">PortShare.</h1>
         <h2 class="cream">Where development meets portfolio based improvement</h2>
-    </header>
+    </header>                                                                                                                                                                                 
 </template>
 
 <style scoped>
@@ -11,6 +11,6 @@
         margin-top: 50px;
         display: flex;
         flex-direction: column;
-        align-items: center;
+        align-items: center                                             ;
     }
 </style>
